@@ -1,1 +1,1 @@
-Deployed SIte: https://flaskwebapplicationtest.azurewebsites.net
+Deployed Site: https://flaskwebapplicationtest.azurewebsites.net
